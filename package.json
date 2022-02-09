@@ -1,7 +1,7 @@
 {
   "name": "native-base-icons",
-  "version": "1.0.6",
-  "main": "icons.js",
+  "version": "1.0.7",
+  "main": "dist/index.js",
   "repository": "git@github.com:vidhi499/native-base-icons.git",
   "author": "madhav23bansal <madhavb230100@gmail.com>",
   "license": "MIT",
