@@ -1,10 +1,10 @@
 import ZocialFontFile from "react-native-vector-icons/Fonts/Zocial.ttf";
 
-const ZocialFont = `
+const ZocialFontFaceCSS = `
     @font-face {
         src: url(${ZocialFontFile});
         font-family: Zocial;
     }
 `
 
-export default ZocialFont;
+export default ZocialFontFaceCSS;

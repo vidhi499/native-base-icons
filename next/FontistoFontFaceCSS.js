@@ -1,10 +1,10 @@
 import FontistoFontFile from "react-native-vector-icons/Fonts/Fontisto.ttf";
 
-const FontistoFont = `
+const FontistoFontFaceCSS = `
     @font-face {
         src: url(${FontistoFontFile});
         font-family: Fontisto;
     }
 `
 
-export default FontistoFont;
+export default FontistoFontFaceCSS;

@@ -1,10 +1,10 @@
 import FontAwesomeFontFile from "react-native-vector-icons/Fonts/FontAwesome.ttf";
 
-const FontAwesomeFont = `
+const FontAwesomeFontFaceCSS = `
     @font-face {
         src: url(${FontAwesomeFontFile});
         font-family: FontAwesome;
     }
 `
 
-export default FontAwesomeFont;
+export default FontAwesomeFontFaceCSS;

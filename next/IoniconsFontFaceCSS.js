@@ -1,10 +1,10 @@
 import IoniconsFontFile from "react-native-vector-icons/Fonts/Ionicons.ttf";
 
-const IoniconsFont = `
+const IoniconsFontFaceCSS = `
     @font-face {
         src: url(${IoniconsFontFile});
         font-family: Ionicons;
     }
 `
 
-export default IoniconsFont;
+export default IoniconsFontFaceCSS;
