@@ -5,6 +5,7 @@
   "repository": "git@github.com:vidhi499/native-base-icons.git",
   "author": "madhav23bansal <madhavb230100@gmail.com>",
   "license": "MIT",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
